@@ -31,7 +31,6 @@ packaging==21.2
 pathy==0.6.1
 pipwin==0.5.1
 preshed==3.0.6
-PyAudio @ file:///C:/Users/Vaishnavi%20Mall/pipwin/PyAudio-0.2.11-cp36-cp36m-win_amd64.whl
 pydantic==1.8.2
 pyjsparser==2.7.1
 pyparsing==2.4.7
