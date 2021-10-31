@@ -5,6 +5,7 @@ blis==0.7.5
 catalogue==2.0.6
 certifi==2021.10.8
 charset-normalizer==2.0.7
+python==3.6.5
 ChatterBot @ git+git://github.com/gunthercox/ChatterBot.git@4ff8af28567ed446ae796d37c246bb6a14032fe7
 click==8.0.3
 colorama==0.4.4
